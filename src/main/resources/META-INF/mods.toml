@@ -42,7 +42,7 @@ authors="Timtaran" #optional
 
 # The description text for the mod (multi line!) (#mandatory)
 description='''
-Знаете, я еще не начал делать Райю, а уже заебался.
+Знаете, я еще не начал делать Райю, а уже заебался. ю_ю
 '''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[dependencies.raya]] #optional
