@@ -23,8 +23,7 @@ import net.minecraftforge.registries.RegistryObject;
 import org.slf4j.Logger;
 
 @Mod(Raya.MODID)
-public class Raya
-{
+public class Raya {
     public static final String MODID = "raya";
     private static final Logger LOGGER = LogUtils.getLogger();
     private void commonSetup(final FMLCommonSetupEvent event) {
